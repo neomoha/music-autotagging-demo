@@ -1,7 +1,7 @@
 Music Autotagging demo
 ======
 
-A demo code for performing music autotagging. The audio features of the example music dataset used in this demo (majorminer) are computed using the audio analysis library [essentia](http://essentia.upf.edu/)
+A demo code for performing music autotagging. The audio features of the example music dataset used in this demo ([majorminer](http://majorminer.org/info/intro)) are computed using the audio analysis library [essentia](http://essentia.upf.edu/)
 The demo includes all the necessary code, metadata and audio features.
 This demo is adapted from the Music Autotagging tutorial @ [ISMIR 2013](http://ismir2013.ismir.net/)
 
